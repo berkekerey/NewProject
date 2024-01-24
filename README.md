@@ -7,6 +7,7 @@ you can run the codes through the REPLİT
  
  The game will warn you if the number you entered is low or high and will help you
 
- ![Game screenshot](https://github.com/berkekerey/NewProject/assets/150926719/7e0d8f94-987f-41fa-8512-d42bda3de66a)
+ ![Ekran görüntüsü 2024-01-24 191212](https://github.com/berkekerey/NumberGuessingGame/assets/150926719/10db2126-c749-47d9-8043-70ed05823e7f)
+
 
  Thank you for playing the game
