@@ -1,5 +1,5 @@
 ## Number Guessing Game
-this is a simple number guessing game guess the numbers and find the result
+This is a number guessing game choose your difficulty level guess the number and find the result
 # Setup
 you can run the codes through the REPLİT
 # Usage
